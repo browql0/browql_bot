@@ -1,32 +1,32 @@
-<img width="358" height="300" alt="help" src="https://github.com/user-attachments/assets/fbf5c718-8c1c-440b-9bd2-126d8ae6cb6c" /># 🤖 Zeikoo Bot
+# 🤖 Zeikoo Bot
 
-Zeikoo est un bot Discord multifonction avec des commandes avancées pour l'administration, l'antiraid, l'économie, les mini-jeux, et bien plus encore.
+Zeikoo is a multifunctional Discord bot with advanced commands for administration, anti-raid, economy, mini-games, and much more.
 
-## 📌 Préfixe
-Le préfixe par défaut est : `+`
+## 📌 Prefix
+Default prefix: `+`
 
 ---
 
-## 👑 Commandes Owner (Propriétaire)
-Commandes réservées à l'administrateur principal du bot :
-- `prefix` – Changer le préfixe du bot.
-- `serverlist` – Voir la liste des serveurs où le bot est présent.
-- `owner (add/remove/list)` – Gérer les propriétaires du bot.
-- `bl (add/remove/list)` – Gérer la blacklist globale.
-- `wl (add/remove/list)` – Gérer la whitelist globale.
-- `leave` – Faire quitter un serveur spécifique.
-- `massrole (add/remove)` – Ajouter ou supprimer un rôle à tous les membres.
-- `config` – Configurer les paramètres du bot.
-- `set (pic/name)` – Modifier l'image ou le nom du bot.
-- `xml (add/remove/list)` – Gérer les XML.
-- `temp-server` – Créer des serveurs temporaires.
-- `logs`, `black (true/false)` – Gérer les logs et les permissions.
-- `invite <ID>` – Générer une invitation vers un serveur.
+## 👑 Owner Commands
+Commands reserved for the main bot administrator:
+- `prefix` – Change the bot prefix.
+- `serverlist` – View the list of servers the bot is in.
+- `owner (add/remove/list)` – Manage bot owners.
+- `bl (add/remove/list)` – Manage the global blacklist.
+- `wl (add/remove/list)` – Manage the global whitelist.
+- `leave` – Make the bot leave a specific server.
+- `massrole (add/remove)` – Add or remove a role to/from all members.
+- `config` – Configure bot settings.
+- `set (pic/name)` – Change the bot's picture or name.
+- `xml (add/remove/list)` – Manage XML entries.
+- `temp-server` – Create temporary servers.
+- `logs`, `black (true/false)` – Manage logs and block settings.
+- `invite <ID>` – Generate a server invite.
 
 ---
 
 ## 🛡️ Anti-Raid
-Commandes pour protéger le serveur contre les attaques :
+Protect your server from raid attacks:
 - `ghost-ping (on/off)`
 - `antilink (on/off)`
 - `public (on/off)`
@@ -38,51 +38,51 @@ Commandes pour protéger le serveur contre les attaques :
 
 ---
 
-## 🛠️ Modération
-Commandes pour gérer la communauté :
+## 🛠️ Moderation
+Manage your community with ease:
 - `addrole`, `adminlist`, `ban`, `bans`, `clear`, `create`, `mute`, `unmute`
 - `delrole`, `derank`, `embed`, `kick`, `roles`, `lock`, `rename`, `say`, `snipe`, `banlist`, `unlock`
 - `tempmute`, `slowmode`, `nuke`, `vkick`
 
 ---
 
-## 🌐 Commandes Publiques
-Accessibles par tous les utilisateurs :
+## 🌐 Public Commands
+Accessible by all users:
 - `help`, `support`, `rank`, `afk`, `horaire`, `pic`, `server`, `speed`, `user`, `vec`, `warns`, `members`
 - `calc`, `google`, `spotify`
 
 ---
 
-## 💰 Économie
-Système de monnaie virtuelle intégré :
+## 💰 Economy
+Fully featured virtual currency system:
 - `money`, `work`, `deposit`, `withdraw`, `add-item`, `shop`, `beg`, `crime`
 
 ---
 
 ## 🎮 Fun
-Commandes amusantes et mini-jeux :
+Games and fun commands:
 - `tic`, `gay`, `kill`, `drake`, `gun`, `reverse`, `snake`, `fast-type`, `fight`, `flip`, `shuffle-guns`, `kiss`
-
 
 ---
 
-## 📸 Aperçu
+## 📸 Preview
 
-![Zeikoo Bot Commandes]<img width="358" height="300" alt="help" src="https://github.com/user-attachments/assets/f4249949-c570-4282-8639-6b9ea3f99399" />
+![Zeikoo Bot Commands]<img width="358" height="300" alt="help" src="https://github.com/user-attachments/assets/f4249949-c570-4282-8639-6b9ea3f99399" />
 
 
 ---
 
 ## 📥 Installation
-> *Ce bot n’est pas open-source pour le moment. Contacte le développeur pour une version personnalisée ou pour inviter le bot sur ton serveur.*
+> *This bot is not open-source at the moment. Contact the developer for a custom version or to invite the bot to your server.*
 
 ---
 
-## 👤 Développeur
-- 👑 **Nom** : @browql
+## 👤 Developer
+- 👑 **Name**: @YourDiscordName
+- 📧 Contact: yourmail@example.com *(optional)*
 
 ---
 
-## 📃 Licence
-Ce projet est protégé. Toute tentative de copie ou de revente est interdite sans autorisation explicite du propriétaire.
+## 📃 License
+This project is protected. Any attempt to copy or resell without permission is strictly prohibited.
 
